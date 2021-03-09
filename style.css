@@ -1,0 +1,109 @@
+a {
+  color: black;
+}
+
+#person {
+  width: 30px;
+  height: 25px;
+  background-image: url(images/person.png);
+  display: inline-block;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  font-size: 25px;
+}
+
+#hero-image-right,
+#hero-image-left {
+  width: 200px;
+  height: 200px;
+  background-size: cover;
+}
+
+#all-in-one-platform,
+#find-your-next-customer,
+#grow-your-business {
+  width: 100px;
+  height: 100px;
+  background-size: cover;
+  margin: auto;
+}
+
+#your-channel-program-on-steroids,
+#become-the-vendor,
+#best-sales-men,
+#track-channel,
+#get-best-version {
+  height: 230.44686261842787px;
+  width: 312.3355539200197px;
+  margin: auto;
+  background-size: cover;
+}
+
+#become-the-vendor {
+  background-image: url(./images/become-the-vendor.png);
+  margin: 0;
+  width: 380px;
+}
+
+#track-channel {
+  background-image: url(./images/track-channel.png);
+  margin: 0;
+  width: 282px;
+  height: 240.4px;
+}
+
+#hero-image-right {
+  background-image: url(./images/partner-hero-image-right.png);
+}
+
+#hero-image-left {
+  background-image: url(./images/partner-hero-image-left.png);
+}
+
+#all-in-one-platform {
+  background-image: url(./images/all-in-one-platform.png);
+}
+
+#find-your-next-customer {
+  background-image: url(./images/find-your-next-customer.png);
+}
+
+#grow-your-business {
+  background-image: url(./images/grow-your-business.png);
+}
+
+
+#your-channel-program-on-steroids {
+  background-image: url(./images/your-channel-program-on-steroids.png);
+}
+
+#best-sales-men {
+  background-image: url(./images/best-sales-men.png);
+  width: 256px;
+  height: 259px;
+  background-size: cover;
+}
+
+#get-best-version {
+  background-image: url(./images/get-best-version.png);
+  height: 320.68572998046875px;
+  width: 346.7595520019531px;
+}
+
+footer ul li {
+  list-style: none;
+}
+
+footer ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+footer ul li a:hover {
+  text-decoration: none;
+  color: red;
+}
+
+
